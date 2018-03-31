@@ -1,0 +1,20 @@
+{
+  "name": "blago",
+  "version": "1.0.0",
+  "author": "Maxim Davydov",
+  "scripts": {
+    "start": "gulp styles"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ValentinVolkov/blago"
+  },
+  "keywords": [
+    "blago"
+  ],
+  "devDependencies": {
+    "gulp": "3.9.1",
+    "gulp-sass": "3.2.1",
+    "gulp-autoprefixer": "4.0.0"
+  }
+}
