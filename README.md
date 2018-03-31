@@ -1,0 +1,1 @@
+The first Valek's site just for fun and learning.
