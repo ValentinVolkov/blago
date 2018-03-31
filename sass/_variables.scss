@@ -1,0 +1,25 @@
+$screen-xs-min: 480px !default;
+$screen-sm-min: 768px !default;
+$screen-md-min: 992px !default;
+$screen-lg-min: 1200px !default;
+$screen-ex-lg-min: 1400px !default;
+
+$screen-xs-after-min: ($screen-xs-min - 1) !default;
+$screen-xs-max: ($screen-sm-min - 1) !default;
+$screen-sm-max: ($screen-md-min - 1) !default;
+$screen-md-max: ($screen-lg-min - 1) !default;
+$screen-tablet-max: 1024px !default;
+
+// COLORS
+$color-blue-grey: #597c98;
+$color-blue: #1b85be;
+$color-black: #000000;
+$color-grey: #bfbfbf;
+$color-white: #ffffff;
+$color-yellow: #ffca6c;
+$color-red: #d75d5d;
+
+// Fonts
+$font-serif: serif;
+$font-sans: sans-serif;
+$font-arial: Arial, Helvetica, sans-serif;
